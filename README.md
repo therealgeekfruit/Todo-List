@@ -1,6 +1,6 @@
 # Todo-List
 
-A todo-list application to help you get more productive with local storage options and subtle CSS animations.
+A todo-list application to help you get more productive. This has local storage options and subtle CSS animations.
 
 -You can preview the page here
 [Todo-List](https://therealgeekfruit.github.io/Todo-List/)
